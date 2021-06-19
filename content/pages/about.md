@@ -42,6 +42,14 @@ Actualmente estoy inmerso en la Ciencia de Datos, una disciplina que engloba las
 
 Juntar la inteligencia emocional y aplicarla en una inteligencia artificial es un reto que demanda crear paradigmas distintos para re escribir el fututo.
 
+> “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams</cite>
+>
+>
+
+
+
+
+
 Mi propósito se centra en transmitir el conocimiento que fui adquiriendo hasta ahora para marcar un legado a la siguiente generación.
 
 *¡Gracias por leerlo! 😉*
