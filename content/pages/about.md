@@ -36,6 +36,8 @@ Actualmente está inmerso en la Ciencia de Datos, una disciplina que engloba las
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
+Juntar la inteligencia emocional y aplicarla en una inteligencia artificial es un reto que demanda crear paradigmas distintos para re escribir el fututo.
+
 Su propósito se centra en transmitir el conocimiento que fui adquiriendo hasta ahora para marcar un legado a la siguiente generación.
 
 *¡Gracias por leerlo! 😉*
