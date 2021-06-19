@@ -36,10 +36,9 @@ Dentro del rubro profesional, estudié la carrera de Ingeniería en Redes y Tele
 
 Actualmente estoy inmerso en la Ciencia de Datos, una disciplina que engloba las habilidades de programación, estadística y ciencias empresariales  que se unen para la determinación, análisis y toma de decisiones óptimas a partir de los patrones de comportamiento y de modelos predictivos.
 
-> *Especialmente en la tecnología, necesitamos cambios revolucionarios, no cambios incrementales.
-> *
+> *Especialmente en la tecnología, necesitamos cambios revolucionarios, no cambios incrementales.*
 >
-> Larry Page
+> ##### Larry Page
 
 Juntar la inteligencia emocional y aplicarla en una inteligencia artificial es un reto que demanda crear paradigmas distintos para re escribir el fututo.
 
