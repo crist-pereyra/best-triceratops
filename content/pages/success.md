@@ -2,7 +2,6 @@
 title: ¡Gracias totales!
 layout: page
 ---
+Gracias por contactarte conmigo. Muy pronto te enviaré un feedback
 
-Thank you for contacting me! I will get back in touch with you soon.
-
-**Have a great day!**
+**¡Qué tengas un excelente día! 🙌🏼**
