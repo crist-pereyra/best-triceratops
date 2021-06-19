@@ -36,11 +36,9 @@ Dentro del rubro profesional, estudié la carrera de Ingeniería en Redes y Tele
 
 Actualmente estoy inmerso en la Ciencia de Datos, una disciplina que engloba las habilidades de programación, estadística y ciencias empresariales  que se unen para la determinación, análisis y toma de decisiones óptimas a partir de los patrones de comportamiento y de modelos predictivos.
 
-> *Especialmente en la tecnología, necesitamos cambios revolucionarios, no cambios incrementales.*
->
-> ##### Larry Page
->
-> “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” \<cite>― Scott Adams\</cite>
+
+
+> “Especialmente en la tecnología, necesitamos cambios revolucionarios, no cambios incrementales.” <cite>― Larry Page</cite>
 >
 >
 
