@@ -1,6 +1,6 @@
 ---
 title: ¿Quién soy?
-subtitle: Te contaré acerca de mí y de mis investigaciones
+subtitle: Te contaré acerca de mí y de mis futuras investigaciones
 img_path: images/about.jpg
 seo:
   title: About Me
