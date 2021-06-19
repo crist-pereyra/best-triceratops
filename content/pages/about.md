@@ -30,13 +30,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+**Cristian Pereyra**, es un auténtico y creativo desarrollador Front End. Apasionado por la innovación tecnológica en América Latina 🌎. Le encantan la Psicología como tema divulgativo, y de hecho sus puntos como divulgador nacen a partir de los mismos. Dentro de sus valores se encuentran la responsabilidad y la habilidad de transformar mis habilidades y perfeccionarlas al máximo. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Actualmente está inmerso en la Ciencia de Datos, una disciplina que engloba las habilidades de programación, estadística y ciencias empresariales  que se unen para la determinación, análisis y toma de decisiones óptimas a partir de los patrones de comportamiento y de modelos predictivos.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-*Thank You for reading!*
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+Su propósito se centra en transmitir el conocimiento que fui adquiriendo hasta ahora para marcar un legado a la siguiente generación.
+
+
+*¡Gracias por leerlo! 😉*
