@@ -30,16 +30,12 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Cristian Pereyra**, es un auténtico y creativo desarrollador Front End. Apasionado por la innovación tecnológica en América Latina 🌎. Le encantan la Psicología como tema divulgativo, y de hecho sus puntos como divulgador nacen a partir de los mismos. Dentro de sus valores se encuentran la responsabilidad y la habilidad de transformar mis habilidades y perfeccionarlas al máximo. 
-
+[**Cristian Pereyra**](https://www.linkedin.com/in/crist-pereyra/), es un auténtico y creativo desarrollador Front End. Apasionado por la innovación tecnológica en América Latina 🌎. Le encantan la Psicología como tema divulgativo, y de hecho sus puntos como divulgador nacen a partir de los mismos. Dentro de sus valores se encuentran la responsabilidad y la habilidad de transformar mis habilidades y perfeccionarlas al máximo.
 
 Actualmente está inmerso en la Ciencia de Datos, una disciplina que engloba las habilidades de programación, estadística y ciencias empresariales  que se unen para la determinación, análisis y toma de decisiones óptimas a partir de los patrones de comportamiento y de modelos predictivos.
-
-
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 Su propósito se centra en transmitir el conocimiento que fui adquiriendo hasta ahora para marcar un legado a la siguiente generación.
-
 
 *¡Gracias por leerlo! 😉*
