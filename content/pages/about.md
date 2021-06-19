@@ -38,7 +38,7 @@ Actualmente estoy inmerso en la Ciencia de Datos, una disciplina que engloba las
 
 > *Especialmente en la tecnología, necesitamos cambios revolucionarios, no cambios incrementales.*
 >
-> ##### \<cite>Larry Page\</cite>
+> ##### Larry Page
 
 Juntar la inteligencia emocional y aplicarla en una inteligencia artificial es un reto que demanda crear paradigmas distintos para re escribir el fututo.
 
